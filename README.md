@@ -1,5 +1,3 @@
-If your **README.md** is breaking when uploading to GitHub, it's likely due to **Markdown formatting issues**. Here's a cleaned and fixed version of your README with proper formatting:
-
 ---
 
 # PlantFlow - Truck Management System
