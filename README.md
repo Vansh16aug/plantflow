@@ -1,5 +1,3 @@
----
-
 # PlantFlow - Truck Management System
 
 ## Table of Contents
